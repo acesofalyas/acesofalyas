@@ -4,7 +4,7 @@ My name is Alyas.
 
 There isn't much here, but I create software, games, websites, APIs, and discord bots.
 ### Information
-- 🎉 Fun Fact: I study Computer Science and Psychology
+- 🎉 Fun Fact: I study Computer Science. Graduate as of December 2021.
 - 🧑 Pronouns: He/Him/His
 - 🏳 L(G)BTQ+
 - 📧 Contact: hiro@ottegi.com
